@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jasil/static/css/main.ef23c70f.css",
+    "main.js": "/jasil/static/js/main.06800896.js",
+    "static/js/787.28cb0dcd.chunk.js": "/jasil/static/js/787.28cb0dcd.chunk.js",
+    "static/media/jasil.png": "/jasil/static/media/jasil.b2c31d742b13fe74c739.png",
+    "static/media/react2.png": "/jasil/static/media/react2.1f52ca253ce403eacf05.png",
+    "static/media/fotico.jpg": "/jasil/static/media/fotico.14ded1a5063e40362177.jpg",
+    "static/media/css2.png": "/jasil/static/media/css2.7654ce00c5ac2e76e015.png",
+    "static/media/html2.png": "/jasil/static/media/html2.31497a13d5b51cea9b7d.png",
+    "index.html": "/jasil/index.html",
+    "main.ef23c70f.css.map": "/jasil/static/css/main.ef23c70f.css.map",
+    "main.06800896.js.map": "/jasil/static/js/main.06800896.js.map",
+    "787.28cb0dcd.chunk.js.map": "/jasil/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef23c70f.css",
+    "static/js/main.06800896.js"
+  ]
+}
